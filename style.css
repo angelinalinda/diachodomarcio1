@@ -6,9 +6,9 @@
 }
 
 body{
-    background-color: oklch(37.2% 0.044 257.287);
+    background-color: #ba181b;
     font-size: 1.6rem;
-    color: #fff;
+    color: #ffd166;
 }
 
 :root{
@@ -82,7 +82,7 @@ fieldset{
 button{
     padding: 1rem;
     width: 10rem;
-    background: oklch(37% 0.013 285.805);
+    background: #003566;
     border-radius: 1rem;
     border: none;
     color: #fff;
@@ -92,7 +92,7 @@ button{
 }
 
 button:hover{
-    background: oklch(44.2% 0.017 285.786);
+    background: #004e98;
     transition: background .4s;
 }
 
